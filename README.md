@@ -1,7 +1,5 @@
 ## Sooney
 
-### Front-end Developer
-
 ### Langs & Techs
 - Vue / Nuxt
 - React / Next
