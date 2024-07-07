@@ -9,4 +9,4 @@
 - C#
 - CSS
 - HTML
-- a bit of Go
+- Go
